@@ -1,0 +1,12 @@
+article {
+  border: 2px solid black;
+  flex-basis: 30%;
+  padding: 4px;
+  margin-top: 10px;
+  text-align: center;
+}
+div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
